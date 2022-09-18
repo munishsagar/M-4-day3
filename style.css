@@ -1,0 +1,23 @@
+.banner {
+  height: 400px;
+  background: url("phot.avif") center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.loadimage {
+  position: absolute;
+  top: 50%;
+  left: 40%;
+}
+.secondary_img {
+  position: absolute;
+  top: 50%;
+  left: 54%;
+}
+.searchfield {
+  position: absolute;
+  top: 40%;
+  left: 45%;
+}
